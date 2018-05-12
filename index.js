@@ -1,6 +1,7 @@
 var fs = require('fs')
 var colors = require('colors')
 
+
 fs.readdir('./', function(err, files) {
 	if (err) {
 		console.log('error!')

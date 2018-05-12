@@ -1,1 +1,1 @@
-.DS_Store,.git,README.md,cat.jpg,directoryContent.txt,index.js,node_modules,package-lock.json,package.json,text.txt
+.DS_Store,.git,.gitignore,README.md,cat.jpg,index.js,node_modules,package-lock.json,package.json,text.txt
